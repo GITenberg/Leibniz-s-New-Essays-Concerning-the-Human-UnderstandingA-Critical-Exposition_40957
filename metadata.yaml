@@ -1,0 +1,50 @@
+_repo: Leibniz-s-New-Essays-Concerning-the-Human-UnderstandingA-Critical-Exposition_40957
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: '"The purpose of the series of which the present volume is one, is not,
+  as will be seen by reference to the statement in the initial volume, to sum up in
+  toto the system of any philosopher, but to give a "critical exposition" of some
+  one masterpiece. In treating the "Nouveaux Essais" of Leibniz, I have found myself
+  obliged, at times, to violate the letter of this expressed intention, in order to
+  fulfil its spirit. The "Nouveaux Essais," in spite of its being one of the two most
+  extended philosophical writings of Leibniz, is a compendium of comments, rather
+  than a connected argument or exposition. It has all the suggestiveness and richness
+  of a note-book, but with much also of its fragmentariness. I have therefore been
+  obliged to supplement my account of it by constant references to the other writings
+  of Leibniz, and occasionally to take considerable liberty with the order of the
+  treatment of topics. Upon the whole, this book will be found, I hope, to be a faithful
+  reflex not only of Leibniz''s thought, but also of his discussions in the "Nouveaux
+  Essais." I have endeavored, in the body of the work, to identify my thought with
+  that of Leibniz as much as possible, to assume his standpoint and method, and, for
+  the most part, to confine express criticism upon his limitations to the final chapter.
+  In particular, I have attempted to bring out the relations of philosophy to the
+  growing science of his times, to state the doctrine of pre-established harmony as
+  he himself meant it, and to give something like consistency and coherency to his
+  doctrine of material existence and of nature. This last task seemed especially to
+  require doing. I have also endeavored to keep in mind, throughout, Leibniz''s relations
+  to Locke, and to show the "Nouveaux Essais" as typical of the distinction between
+  characteristic British and German thought"--Preface. (PsycINFO Database Record (c)
+  2008 APA, all rights reserved).'
+gutenberg_issued: '2012-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716'
+- !lcc 'B'
+title: 'Leibniz''s New Essays Concerning the Human Understanding: A Critical Exposition'
+url: http://www.gutenberg.org/ebooks/40957
